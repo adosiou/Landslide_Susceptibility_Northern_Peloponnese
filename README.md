@@ -1,0 +1,2 @@
+Landslide susceptibility for the coastal zone of the Northern Peloponnese.
+The factors considered are the digital elevation model, the hydrographic network, the roads, slopes, bedding orientations, faults, earthquakes, lithology of the area, and past landslides. This technique yields the LSI (Landslide Susceptibility Index) of all factors and their combination to evaluate the overall hazard in the study area.
